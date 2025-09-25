@@ -1,0 +1,1 @@
+import{_ as o,c as r,o as n,a as t,r as c}from"./index-BaAdolc9.js";const a={};function s(_,m){const e=c("RouterView");return n(),r("main",null,[t(e)])}const i=o(a,[["render",s]]);export{i as default};
